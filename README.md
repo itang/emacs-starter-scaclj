@@ -1,8 +1,8 @@
 # emacs starter scaclj  
 
 A set of emacs defaults for starting scala and clojure and more...
----------------------
-*install*:  
+- - -  
+**Install**:  
 
     $ git clone https://itang@github.com/itang/emacs-starter-scaclj.git  
     $ cd emacs-starter-scaclj  
@@ -11,8 +11,7 @@ A set of emacs defaults for starting scala and clojure and more...
     $ emacs
 
 
-*@see*:  
-[technomancy /
-emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit)  
-[g-eorge / emacs-dotfiles](https://github.com/g-eorge/emacs-dotfiles)  
+**@See**:  
+* [technomancy/emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit)  
+* [g-eorge/emacs-dotfiles](https://github.com/g-eorge/emacs-dotfiles)  
 
