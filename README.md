@@ -1,4 +1,5 @@
 # emacs starter scaclj  
+
 A set of emacs defaults for starting scala and clojure and more...
 ---------------------
 *install*:  
